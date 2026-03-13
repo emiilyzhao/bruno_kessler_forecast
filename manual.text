@@ -1,0 +1,63 @@
+USER'S MANUAL
+1. INSTALLATION
+2. DATA'S UPLOAD
+3. HOW TO USE THE WEBSITE
+4. GUIDE ON THE DATA
+
+
+1. INSTALLATION
+
+
+
+
+2.DATA'S UPLOAD
+
+
+
+3. HOW TO USE THE WEBSITE
+Interface Layout
+The interface is divided into two main tabs:
+
+3.1 Single Plotting - For selecting and plotting data for a single time period and area.
+3.2 multi-data plotting
+
+
+3.1 Single Plotting Tab
+
+This tab allows you to select and plot data based on various parameters.
+
+Step-by-Step Guide
+1. Selecting the Area
+
+Open the Map: Click on the map displayed on the Single Plotting tab.
+Select Area: Use the mouse to click and drag to select the area of interest on the map.
+You can zoom in and out using the zoom controls or by scrolling.
+Adjust the selected area by dragging the corners of the selection box.
+
+2. Choosing the Time Range
+
+From Date: Click on the 'From' date field to open the calendar.
+Select the start date for your data.
+To Date: Click on the 'To' date field to open the calendar.
+Select the end date for your data.
+
+3. Selecting Data Type
+
+Data Type Dropdown: Click on the dropdown menu labeled 'Data Type'.
+Browse through the list of available data types.
+Select the data type you wish to plot.
+
+4. Choosing Specific File
+
+Known file's plot: Click on the select a file and ......
+5. Selecting Semi-Orbit
+
+Semi-Orbit menu: Click on the menu labeled 'Semi-Orbit'.
+Upload the number of the Semi-Orbit.
+
+Plotting the Data
+Plot Data Button: After selecting all the parameters, click the 'Plot Data' button.
+View Plot: The tool will process your selections and display the plotted data on the map.
+
+
+3.2 multi-data plotting
